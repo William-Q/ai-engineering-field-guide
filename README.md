@@ -100,4 +100,4 @@ Have questions? [Submit them here](https://app.sli.do/event/vJEZ6h5zbFRAzPfrANZx
 
 ## Learn AI Engineering
 
-If you want to learn the core skills needed for being an AI engineer, check out my course [AI Engineering Buildcamp: From RAG to Agents](https://maven.com/alexey-grigorev/from-rag-to-agents) - a 9-week intensive on building production-ready AI applications. Use code **EARLYBIRD** for 30% off.
+If you want to learn the core skills needed for being an AI engineer, check out my course [AI Engineering Buildcamp: From RAG to Agents](https://maven.com/alexey-grigorev/from-rag-to-agents) - a 9-week intensive on building production-ready AI applications.
