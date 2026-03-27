@@ -1,29 +1,29 @@
 # Job Market Data
 
-895 job descriptions from builtin.com (January 2026) covering LA, NY, London, Amsterdam, and Berlin.
+2,445 AI Engineer job descriptions from builtin.com (January - March 2026) covering LA (Global), New York, London, Amsterdam, Berlin, and India.
 
 For analysis and insights based on this data, see [role/](../role/).
 
 ## Contents
 
-- [data_structured/](data_structured/) - 895 structured YAML files with title, company, skills, compensation, and full descriptions
-- [data_raw/](data_raw/) - 895 raw extracted YAML files from job postings
+- [data_structured/](data_structured/) - structured YAML files with title, company, skills, compensation, and full descriptions
+- [data_raw/](data_raw/) - raw extracted YAML files from job postings
 - [analysis.ipynb](analysis.ipynb) - Jupyter notebook with data analysis
 - [_internal/](_internal/) - scraping scripts, processing scripts, CSVs
 
 ## Highlights
 
-- 621 jobs (69.4%) are AI-First (RAG, agents, LLMs)
-- 255 jobs (28.5%) are AI-Support (platforms, infrastructure, tooling)
-- 16 jobs (1.8%) are traditional ML rebranded as "AI Engineer"
-- 590 unique companies, led by Capital One (28), G2i (15), Scale AI (10)
+- 1,683 jobs (72.0%) are AI-First (RAG, agents, LLMs)
+- 593 jobs (25.4%) are AI-Support (platforms, infrastructure, tooling)
+- 48 jobs (2.1%) are traditional ML rebranded as "AI Engineer"
+- 1,172 unique companies, led by Capital One (47), Jack & Jill AI (27), Optum (26)
 
 Top skills:
 
-- Python (82.5%), TypeScript (23.4%), Java (14.9%)
-- RAG (35.9%), prompt engineering (29.1%), LLMs (25.4%)
-- AWS (40.1%), Docker (31%), Kubernetes (29.1%)
-- LangChain (18.8%), LangGraph (8.0%), LlamaIndex (5.8%)
+- Python (82.7%), TypeScript (20.8%), Java (18.3%)
+- RAG (34.5%), LLMs (21.2%), prompt engineering (18.0%)
+- AWS (41.3%), Docker (32.6%), Kubernetes (28.3%)
+- LangChain (23.1%), PyTorch (22.5%), SQL (21.0%)
 
 ## Data Format
 
